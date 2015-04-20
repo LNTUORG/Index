@@ -10,7 +10,7 @@ This is a platform for student in LNTU, include all the student organization suc
 
 The domain `lntu.org` is our root domain, if you are an in-school organization, you can contact us for an unique second-class domain for free.
 
-For example, the education admin system app is a project for LNTU, we use the name `online.lntu.org` for this project's website, what's more, `online.lntu.org` is just a show website, we use `api.online.lntu.org` for C/S communication, we use `open.online.lntu.org` for introduce document. you can use it for anyway but do not break the law.
+For example, the education admin system app is a project for LNTU, we use the name `online.lntu.org` for this project's website, what's more, `online.lntu.org` is just a show website, we use `api.online.lntu.org` for C/S communication, we use `open.online.lntu.org` for develop document. you can use it for anyway but do not break the law.
 
 ## How to use the domain
 
