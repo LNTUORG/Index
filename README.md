@@ -32,7 +32,7 @@ You have authority to change anything.
 
 **For import thing I always repeat three times.**
 
-If you want to make change, you can create a new branch named such as `new/yourOrgName`, about this, you'd better obay the follow rules, in order to make less something terrible. The rule is: if you add new organization's introduce, you can create branch named `new/yourOrgName`, if you want to edit something, you can create branch named `edit/yourOrgName`.
+If you want to make change, you can create a new branch named such as `new/yourOrgName`, about this, you'd better obay the follow rules, in order to make less something terrible. The rule is: if you add new organization's introduce, you can create a branch named `new/yourOrgName`, if you want to edit something, you can a create branch named `edit/yourOrgName`.
 
 Then you can edit it freely in your branch, after editing, you can make a pull-request to develop branch. We will merge it after review.
 
