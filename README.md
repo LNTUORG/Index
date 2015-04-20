@@ -22,13 +22,15 @@ First, when you contact us, we will invite you to this project, then you are a m
 
 You have authority to change anything.
 
-**BUT** **DO  NOT MAKE CHANGE IN MASTER ORIGIN**.
+**BUT**
+
+**DO  NOT MAKE CHANGE IN MASTER BRANCH**.
 
 If you want make change, you can create a new branch named such as `new/xxxorganizetion`, then you can edit it freely, then after edited, you can make a pull-request to master origin. We will merge it after review.
 
-**DO  NOT MAKE CHANGE IN MASTER ORIGIN !!!**
+**DO  NOT MAKE CHANGE IN MASTER BRANCH !!!**
 
-**DO  NOT MAKE CHANGE IN MASTER ORIGIN !!!**
+**DO  NOT MAKE CHANGE IN MASTER BRANCH !!!**
 
 For import thing I always repeat three times.
 
