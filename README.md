@@ -42,4 +42,4 @@ For import thing I always repeat three times.
 
 `LNTU EDU ONLINE` is a program that is built and kept by us on our own initiative. In order to skip the identifying code or login by the fuck website. And get the score info quickly.
 
-* [CLOUDTRIB](cloudtrib)
+* [CLOUDTRIBE](cloudtribe)
