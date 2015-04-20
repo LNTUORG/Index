@@ -26,13 +26,17 @@ You have authority to change anything.
 
 **DO  NOT MAKE CHANGE IN MASTER BRANCH**.
 
-If you want make change, you can create a new branch named such as `new/xxxorganizetion`, then you can edit it freely, then after edited, you can make a pull-request to master origin. We will merge it after review.
-
 **DO  NOT MAKE CHANGE IN MASTER BRANCH !!!**
 
 **DO  NOT MAKE CHANGE IN MASTER BRANCH !!!**
 
-For import thing I always repeat three times.
+**For import thing I always repeat three times.**
+
+If you want to make change, you can create a new branch named such as `new/yourOrgName`, about this, you'd better obay the follow rules, in order to make less something terrible. The rule is: if you add new organization's introduce, you can create branch named `new/yourOrgName`, if you want to edit something, you can create branch named `edit/yourOrgName`.
+
+Then you can edit it freely in your branch, after editing, you can make a pull-request to develop branch. We will merge it after review.
+
+Of course, if you think you have enough ability to deal with git, you can be an exception. We make rules just for fresher.
 
 ## Joining list
 
