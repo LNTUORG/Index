@@ -1,5 +1,7 @@
 # LNTU.ORG
 
+有英文障碍的同学可以移步到<a href="http://pupboss.com/2015/04/21/a-lntu-platform/" target="_blank">这里</a>查看翻译。
+
 ## Welcome
 
 Welcome to Liaoning Technical University Organization.
@@ -24,7 +26,7 @@ You have authority to change anything.
 
 **BUT**
 
-**DO  NOT MAKE CHANGE IN MASTER BRANCH**.
+**DO  NOT MAKE CHANGE IN MASTER BRANCH !!!**.
 
 **DO  NOT MAKE CHANGE IN MASTER BRANCH !!!**
 
@@ -32,9 +34,12 @@ You have authority to change anything.
 
 **For import thing I always repeat three times.**
 
-If you want to make change, you can create a new branch named such as `new/yourOrgName`, about this, you'd better obay the follow rules, in order to make less something terrible. The rule is: if you add new organization's introduce, you can create a branch named `new/yourOrgName`, if you want to edit something, you can a create branch named `edit/yourOrgName`.
+If you want to make changes, you are supposed to create a new branch named such as `new/yourOrgName`, about this, you'd better obay the follow rules, in order to make less something terrible. The rule is:
 
-Then you can edit it freely in your branch, after editing, you can make a pull-request to develop branch. We will merge it after review.
+* if you add new organization's introduce, you can create a branch named `new/yourOrgName`.
+* if you want to edit something, you can create a branch named `edit/yourOrgName`.
+
+Then you can edit it freely in your branch, after editing, you can make a pull-request to develop or master branch. We will merge it after review.
 
 Of course, if you think you have enough ability to deal with git, you can be an exception. We make rules just for fresher.
 
