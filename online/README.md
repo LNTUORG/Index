@@ -2,6 +2,8 @@
 
 ![](../images/logo.png)
 
+<a href="http://online.lntu.org" target="_blank">Website</a>
+
 `LNTU EDU ONLINE` is a personal project, and it is a program that is built and kept by us on our own initiative. In order to skip the identifying code or login by the fuck website. And get the score info quickly.
 
 This program contains iOS, Android, and backstage support. Include the architectural design, function realization, and database development, algorithm realization for backstage support.
