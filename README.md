@@ -18,6 +18,10 @@ For example, the education admin system app is a project for LNTU, we use the na
 
 You can see the document [here](wiki/DomainDNS.md)
 
+## About ORG-Mail
+
+If you don't want your private email for business use, you can ask me for an organization email like `yourname@lntu.org`, in fact you can apply for any prefix if nothing changes -- **DO NOT BREAK THE LAW**, and you are free.
+
 ## Push introduce to the below list
 
 First, when you contact us, we will invite you to this project, then you are a member of this project.
@@ -26,11 +30,11 @@ You have authority to change anything.
 
 **BUT**
 
-**DO  NOT MAKE CHANGE IN MASTER BRANCH !!!**.
+**DO NOT MAKE CHANGE IN MASTER BRANCH !!!**
 
-**DO  NOT MAKE CHANGE IN MASTER BRANCH !!!**
+**DO NOT MAKE CHANGE IN MASTER BRANCH !!!**
 
-**DO  NOT MAKE CHANGE IN MASTER BRANCH !!!**
+**DO NOT MAKE CHANGE IN MASTER BRANCH !!!**
 
 **For import thing I always repeat three times.**
 
