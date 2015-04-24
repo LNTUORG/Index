@@ -33,7 +33,7 @@ Our API obey RESTful Standard strictly.
 </thead><tbody>
 </tr>
 <tr>
-<td>userId</td>
+<td> userId </td>
 <td> yes </td>
 <td> string </td>
 <td></td>
@@ -76,3 +76,83 @@ Our API obey RESTful Standard strictly.
 <td> STUDENT / ADMIN / TEACHER </td>
 </tr>
 </tbody></table>
+
+* error: You can test by yourself
+
+#### Self Imformation
+
+* Header: Key: "Authorization", Value: loginToken
+* Method: GET
+* URI: student/~self
+* param: nil
+* return: [Student](model/student)
+* error: You can test by yourself
+
+#### Class Table
+
+* Header: Key: "Authorization", Value: loginToken
+* Method: GET
+* URI: class-table/~self
+* param:
+
+<table><thead>
+<tr>
+<th> param name </th>
+<th> not null </th>
+<th> class </th>
+<th> remarks </th>
+</thead><tbody>
+</tr>
+<tr>
+<td> year </td>
+<td> yes </td>
+<td> string </td>
+<td> 2014 / 2015 and so on </td>
+</tr>
+<tr>
+<td> term </td>
+<td> yes </td>
+<td> string </td>
+<td> 春 / 秋 </td>
+</tr>
+</tbody></table>
+
+* return: [Try by yourself](#)
+* error: You can test by yourself
+
+#### Unpass Course
+
+* Header: Key: "Authorization", Value: loginToken
+* Method: GET
+* URI: unpass-course/~self
+* param: nil
+* return: [Unpass](model/unpass)
+* error: You can test by yourself
+
+#### Grades
+
+* Header: Key: "Authorization", Value: loginToken
+* Method: GET
+* URI: grades/~self
+* param: nil
+* return: [Grades](model/grade)
+* error: You can test by yourself
+* remarks: it includes your average credit
+
+#### Exam Plan
+
+* Header: Key: "Authorization", Value: loginToken
+* Method: GET
+* URI: exam-plan/~self
+* param: nil
+* return: [Plan](model/plan)
+* error: You can test by yourself
+
+#### Skill Test Score
+
+* Header: Key: "Authorization", Value: loginToken
+* Method: GET
+* URI: skill-test-score/~self
+* param: nil
+* return: [Skill Test](model/skill)
+* error: You can test by yourself
