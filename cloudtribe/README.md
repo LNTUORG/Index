@@ -1,3 +1,5 @@
+![](../images/logo_ct.jpg)
+
 ## CLOUDTRIBE
 
 <center>

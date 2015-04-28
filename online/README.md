@@ -1,6 +1,6 @@
-## LNTU EDU ONLINE
-
 ![](../images/logo_online.png)
+
+## LNTU EDU ONLINE
 
 <center><a href="http://online.lntu.org" target="_blank">Website</a> | [API Docs](API_V2.md) | <a href="https://github.com/LNTUORG/LntuOnline" target="_blank">Android</a></center>
 
