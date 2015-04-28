@@ -49,7 +49,7 @@ Then you can edit it freely in your branch, after editing, you can make a pull-r
 
 Of course, if you think you have enough ability to deal with git, you can be an exception. We make rules just for fresher.
 
-## Joining list
+## Joining list (order by join time)
 
 * [LNTU EDU ONLINE](online)
 
