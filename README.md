@@ -1,5 +1,7 @@
 # LNTU.ORG
 
+<center><a href="http://online.lntu.org" target="_blank">Online</a> | <a href="http://ct.lntu.org" target="_blank">CloudTribe</a></center>
+
 有英文障碍的同学可以移步到<a href="http://pupboss.com/2015/04/21/a-lntu-platform/" target="_blank">这里</a>查看翻译。
 
 ## Welcome
@@ -36,7 +38,7 @@ You have authority to change anything.
 
 **DO NOT MAKE CHANGE IN MASTER BRANCH !!!**
 
-**For import thing I always repeat three times.**
+**For important thing I always repeat three times.**
 
 If you want to make changes, you are supposed to create a new branch named such as `new/yourOrgName`, about this, you'd better obay the follow rules, in order to make less something terrible. The rule is:
 
@@ -51,8 +53,12 @@ Of course, if you think you have enough ability to deal with git, you can be an 
 
 * [LNTU EDU ONLINE](online)
 
-![](images/logo.png)
+![](images/logo_online.png)
 
 `LNTU EDU ONLINE` is a program that is built and kept by us on our own initiative. In order to skip the identifying code or login by the fuck website. And get the score info quickly.
 
-* [CLOUDTRIBE](cloudtribe)
+* [CloudTribe](cloudtribe)
+
+![](images/logo_ct.jpg)
+
+`CloudTribe` is an association full of genius, which is the best hardware laboratory in school.

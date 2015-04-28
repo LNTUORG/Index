@@ -1,6 +1,6 @@
 # How to use the domain
 
-First you can register an account in [CloudXNS](http://www.cloudxns.net) or [DNSPod](https://www.dnspod.cn), and tell us which DNS you use, tell us which domain do you want. Then I will add the corresponding NS record to your account.
+First you can register an account in [CloudXNS](http://www.cloudxns.net) or [DNSPod](https://www.dnspod.cn), and tell us your choice, tell us which domain do you want. Then I will add the corresponding NS record to your account.
 
 So, after that, you can add any third-class domain to your domain.
 
