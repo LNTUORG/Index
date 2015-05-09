@@ -2,7 +2,7 @@
 
 <center><a href="http://online.lntu.org" target="_blank">Online</a> | <a href="http://ct.lntu.org" target="_blank">CloudTribe</a></center>
 
-有英文障碍的同学可以移步到<a href="http://pupboss.com/2015/04/21/a-lntu-platform/" target="_blank">这里</a>查看翻译。
+有英文障碍的同学可以移步到<a href="http://pupboss.com/a-lntu-platform/" target="_blank">这里</a>查看翻译。
 
 ## Welcome
 
@@ -12,15 +12,37 @@ This is a platform for student in LNTU, include all the student organization suc
 
 ## How to join
 
+You are supposed to tell me your club name, and the abbreviation you want, then I would give you the follow information:
+
+* domain ownership
+ * like `xxx.lntu.org`
+* vhost address & account & password
+ * like `http://host.lntu.org` `username` `password`
+* database name & account & password
+ * default is `your username` `your password`
+* ORG-Mail account & password
+
+### Domain ownership
+
 The domain `lntu.org` is our root domain, if you are an in-school organization, you can contact us for an unique second-class domain for free.
 
 For example, the education admin system app is a project for LNTU, we use the name `online.lntu.org` for this project's website, what's more, `online.lntu.org` is just a show website, we use `api.online.lntu.org` for C/S communication, we use `open.online.lntu.org` for develop document. you can use it for anyway but do not break the law.
 
-## How to use the domain
+#### How to own the domain
 
 You can see the document [here](wiki/DomainDNS.md)
 
-## About ORG-Mail
+### Vhost
+
+vhost is virtual host, now it just support php, you can use static html page or WordPress based on php.
+
+### Database
+
+If you use static html page, you can ignore this.
+
+If you use some CMS like Wordpress, when you install, it will ask you input database name & account & password.
+
+### ORG-Mail
 
 If you don't want your private email for business use, you can ask me for an organization email like `yourname@lntu.org`, in fact you can apply for any prefix if nothing changes -- **DO NOT BREAK THE LAW**, and you are free.
 
