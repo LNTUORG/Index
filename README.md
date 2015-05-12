@@ -1,6 +1,6 @@
 # LNTU.ORG
 
-<center><a href="http://online.lntu.org" target="_blank">Online</a> | <a href="http://ct.lntu.org" target="_blank">CloudTribe</a></center>
+<center><a href="http://online.lntu.org" target="_blank">Online</a> | <a href="http://ct.lntu.org" target="_blank">CloudTribe</a> | <a href="http://jzt.lntu.org" target="_blank">PressCorps</a></center>
 
 有英文障碍的同学可以移步到<a href="http://pupboss.com/a-lntu-platform/" target="_blank">这里</a>查看翻译。
 
@@ -79,8 +79,16 @@ Of course, if you think you have enough ability to deal with git, you can be an 
 
 `LNTU EDU ONLINE` is a program that is built and kept by us on our own initiative. In order to skip the identifying code or login by the fuck website. And get the score info quickly.
 
-* [CloudTribe](cloudtribe)
+* [Cloud Tribe](cloudtribe)
 
 ![](images/logo_ct.jpg)
 
 `CloudTribe` is an association full of genius, which is the best hardware laboratory in school.
+
+* [College Press Corps](jzt)
+
+![](images/logo_jzt.png)
+
+`College Press Corps` directly under the School Youth League Committee. Members work for `sunstone light` site, and e-publications, campus events news reports.
+
+BTW, here is full of handsome guys and beautiful girls.
