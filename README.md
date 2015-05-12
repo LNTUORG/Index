@@ -87,4 +87,8 @@ Of course, if you think you have enough ability to deal with git, you can be an 
 
 * [College Press Corps](jzt)
 
-`College Press Corps` is an association that full of handsome guys and beautiful girls.
+![](images/logo_jzt.png)
+
+`College Press Corps` directly under the School Youth League Committee. Members work for `sunstone light` site, and e-publications, campus events news reports.
+
+BTW, here is full of handsome guys and beautiful girls.
