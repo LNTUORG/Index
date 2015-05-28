@@ -8,7 +8,7 @@
 
 Welcome to Liaoning Technical University Organization.
 
-This is a platform for student in LNTU, include all the student organization such as student union, college community. And also for some business platform. The most important thing, we strongly welcome open sourse community join us. Let's make LNTU more open.
+This is a platform for student in LNTU, including all the student organization such as student union, college community. And also for some business platform. The most important thing, we strongly welcome open sourse community join us. Let's make LNTU more open.
 
 ## How to join
 
