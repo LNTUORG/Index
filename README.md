@@ -46,6 +46,8 @@ If you use some CMS like Wordpress, when you install, it will ask you input data
 
 If you don't want your private email for business use, you can ask me for an organization email like `yourname@lntu.org`, in fact you can apply for any prefix if nothing changes -- **DO NOT BREAK THE LAW**, and you are free.
 
+The web control address is https://mail.lntu.org, you can login with your username and password.
+
 ## Push introduce to the below list
 
 First, when you contact us, we will invite you to this project, then you are a member of this project.
