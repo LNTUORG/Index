@@ -40,3 +40,11 @@ We're going to breake this gold rule.
 If you are neither a creator nor a designer, please press Ctrl+F4 or Command+Q, this community may not suitable for you.
 
 Let's make ourself better by chatting with excellent people.
+
+## Projects show
+
+### [LNTU EDU Online](online)
+
+![](images/logo_online.png)
+
+`LNTU EDU Online` is a program that is built and kept by us on our own initiative, in order to skip the identifying code or do login on the fuck website and get the score info quickly. Now we get 27,000 users.
