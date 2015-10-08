@@ -1,28 +1,28 @@
 ![](../images/logo_online.png)
 
-## LNTU EDU ONLINE
+## LNTU EDU Online
 
-<center><a href="http://online.lntu.org" target="_blank">Website</a> | [API Docs](API_V2.md) | <a href="https://github.com/LNTUORG/LntuOnline" target="_blank">Android</a></center>
+<center><a href="http://online.lntu.org" target="_blank">Website</a> | [API Docs](API_V2.md)</center>
 
 ### Overview
 
-`LNTU EDU ONLINE` is a personal project, and it is a program that is built and kept by us on our own initiative. In order to skip the identifying code or login by the fuck website. And get the score info quickly.
+`LNTU EDU Online` is a personal project, and it is a program that is built and kept by us on our own initiative, in order to skip the identifying code or login by the fuck website and get the score info quickly.
 
 ### Project
 
-This program contains iOS, Android, and backstage support. Include the architectural design, function realization, and database development, algorithm realization for backstage support.
+This program contains iOS, Android, and backstage support. Including the architectural design, function realization, and database development, algorithm realization for backstage support.
 
-The iOS client has iterated for 96 times, rebuild for 4 times, over 40,000 lines of code. 
+The iOS client has iterated over 120 times, rebuild for 4 times, over 40,000 lines of code. 
 
-The Android client has iterated for 50 times, rebuild for 3 times.
+The Android client has iterated over 50 times, rebuild for 3 times.
 
 Backstage server has iterated for 47 times, reconstituted for 2 times, about 30,000 lines of code.
 
 ### Nowatime
 
-Now it is in use successfully, and is in kept.
+Now it was in production environment.
 
-Until now, we have more than 16,000 users (Just in Liaoning TECHNICAL UNIVERSITY), about 3,000 users active everyday, and the rush hour is about 3,000,000 PV a day.
+Now we have more than 26,000 users (Just in Liaoning TECHNICAL UNIVERSITY), about 4,000 users active everyday, and in rush hour our server respond over 3,000,000 requests a day.
 
 ### Contact
 
