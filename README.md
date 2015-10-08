@@ -1,5 +1,3 @@
-# LNTU.ORG
-
 ## Before text
 
 I found this community last term at Apr 18 2015, at first, I was eager to make it strong, if you want to get the detail, here is the [post](https://pupboss.com/a-lntu-platform/) I wrote last term.
@@ -10,7 +8,7 @@ A huge number of people is not necessary  to a healthy group, China has never la
 
 Inspired by B3LOG -- An open source community, I'm going to restart this project now.
 
-From now on, only Hacker and Painter were welcomed to join us, why? I will explain it below.
+From now on, only Hackers and Painters were welcomed to join us, but why? I will explain it below.
 
 ## Welcome
 
@@ -18,7 +16,7 @@ Welcome to Liaoning Technical University Organization.
 
 This is a platform for outstanding student in Liaoning Technical University that only programmers and designers are needed.
 
-The world consists of two parts, one is creating, and another is destroying. Our job is creating so we only need someone to create and some one to make it better to use.
+The world consists of two parts, one is creating, and another is destroying. Our job is creating so we only need someone to create and someone to make it better to use.
 
 ## Rules
 
@@ -33,12 +31,12 @@ The world consists of two parts, one is creating, and another is destroying. Our
 
 ## Our wishes
 
-Traditionally, the mode of a Chinese community is a big boss and a lot of silly B users. The boss just like a god, nothing is impossible, was responsible for other users everything, and be satisfied by the praise from those guy.
+Traditionally, the mode of a Chinese community is a big boss and a lot of silly B users. The boss just like a god, nothing is impossible, was responsible for other users everything, and be satisfied by the praise from those guys.
 
-So, the wall was born, you can see the words like 'Annex replies visible' 'This topic is not open to your user group' anywhere. Once a forum got a boss, the forum wins.
+Here, the wall was born, you can see the words like 'Annex replies visible' 'This topic is not open to your user group' anywhere. Once a forum got a boss, the forum wins.
 
 We're going to breake this gold rule.
 
 If you are neither a creator nor a designer, please press Ctrl+F4 or Command+Q, this community may not suitable for you.
 
-Let's make ourself better by talking with excellent people.
+Let's make ourself better by chatting with excellent people.
